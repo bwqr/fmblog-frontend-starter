@@ -1,0 +1,24 @@
+[submodule "src/app/core"]
+	path = src/app/core
+	url = https://github.com/bwqr/Angular-Module-Core
+[submodule "src/app/admin"]
+	path = src/app/admin
+	url = https://github.com/bwqr/Angular-Module-Admin
+[submodule "src/app/navigation"]
+	path = src/app/navigation
+	url = https://github.com/bwqr/fmblog-frontend-navigation
+[submodule "src/app/shared"]
+	path = src/app/shared
+	url = https://github.com/bwqr/fmblog-frontend-shared
+[submodule "src/app/auth"]
+	path = src/app/auth
+	url = https://github.com/bwqr/Angular-Module-Auth
+[submodule "src/app/article"]
+	path = src/app/article
+	url = https://github.com/bwqr/Angular-Module-Article
+[submodule "src/app/image"]
+	path = src/app/image
+	url = https://github.com/bwqr/Angular-Module-Image
+[submodule "src/app/user"]
+	path = src/app/user
+	url = https://github.com/bwqr/Angular-Module-User
